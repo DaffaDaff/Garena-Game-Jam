@@ -1,0 +1,4 @@
+repository "garena/garena@18966912832650@cloud"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,32 @@
+{
+    "rooms":
+    [
+        {
+            "x":0,
+            "y":0,
+            "doorRight":"None",
+            "doorLeft":"Wall",
+            "doorTop":"Wall",
+            "doorBottom":"Wall",
+            "item":"None"
+        },
+        {
+            "x":1,
+            "y":0,
+            "doorRight":"None",
+            "doorLeft":"None",
+            "doorTop":"Wall",
+            "doorBottom":"Wall",
+            "item":"None"
+        },
+        {
+            "x":2,
+            "y":0,
+            "doorRight":"Wall",
+            "doorLeft":"None",
+            "doorTop":"Wall",
+            "doorBottom":"Wall",
+            "item":"Door"
+        }
+    ]
+}
